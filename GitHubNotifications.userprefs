@@ -1,0 +1,18 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="9/1/2013 12:02:49 AM">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitHubNotifications/GitHubApi.cs">
+    <Files>
+      <File FileName="GitHubNotifications/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="GitHubNotifications/PreferenceTabs/AuthenticationViewController.cs" Line="1" Column="1" />
+      <File FileName="GitHubNotifications/PreferenceTabs/AuthenticationView.designer.cs" Line="1" Column="1" />
+      <File FileName="GitHubNotifications/Notifications.cs" Line="1" Column="1" />
+      <File FileName="GitHubNotifications/PreferencesWindow.cs" Line="1" Column="1" />
+      <File FileName="GitHubNotifications/PreferencesWindowController.cs" Line="107" Column="4" />
+      <File FileName="GitHubNotifications/GitHubApi.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
